@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html>
 <head>
     <title>Adivinhe o Número</title>
 </head>
-<body>
+<body> -->
     <h1>Adivinhe o Número</h1>
     
     <p>Este é um projeto simples em Python para adivinhar um número.</p>
@@ -42,5 +42,5 @@
     <h2>Licença</h2>
     
     <p>Este projeto está licenciado sob a licença MIT. Consulte o arquivo <code>LICENSE</code> para obter mais informações.</p>
-</body>
-</html>
+<!-- </body>
+</html> -->
