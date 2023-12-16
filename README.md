@@ -1,10 +1,10 @@
-# Python Number Guessing Game
+# Jogo de Adivinhação de Números em Python
 
-This repository contains a simple Python program that implements a number guessing game. The game generates a random number and the player's goal is to guess that number.
+Este repositório contém um simples programa em Python que implementa um jogo de adivinhação de números. O jogo gera um número aleatório e o objetivo do jogador é adivinhar esse número.
 
-## How to Run
+## Como Executar
 
-You can run the game by executing the following command in your terminal:
+Você pode executar o jogo executando o seguinte comando no seu terminal:
 
 ```bash
 python app.py
